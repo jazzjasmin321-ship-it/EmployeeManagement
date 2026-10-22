@@ -9,7 +9,7 @@
   },
   "item": [
     {
-      "name": "Get All Employees.",
+      "name": "Get All Employees",
       "request": {
         "method": "GET",
         "header": [],
