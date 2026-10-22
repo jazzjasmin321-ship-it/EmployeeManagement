@@ -133,6 +133,19 @@ Example request:
 }
 ```
 
+**Sample Response (201 Created):**
+
+```json
+{
+  "id": 1,
+  "fullName": "Priya Thomas",
+  "email": "priya.thomas@example.com",
+  "department": "HR",
+  "designation": "HR Executive",
+  "salary": 32000
+}
+```
+
 ### 2. Retrieve All Employees
 
 * **Method:** GET
