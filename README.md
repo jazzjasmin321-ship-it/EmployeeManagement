@@ -125,11 +125,11 @@ Example request:
 
 ```json
 {
-  "fullName": "Ananya Mohan",
-  "email": "ananya@example.com",
-  "department": "IT",
-  "designation": "Software Developer",
-  "salary": 35000
+  "fullName": "Priya Thomas",
+  "email": "priya.thomas@example.com",
+  "department": "HR",
+  "designation": "HR Manager",
+  "salary": 40000
 }
 ```
 
