@@ -128,8 +128,8 @@ Example request:
   "fullName": "Priya Thomas",
   "email": "priya.thomas@example.com",
   "department": "HR",
-  "designation": "HR Manager",
-  "salary": 35000
+  "designation": "HR Executive",
+  "salary": 32000
 }
 ```
 
@@ -176,6 +176,15 @@ Example request:
 Example:
 
 `DELETE /api/employees/1`
+
+## Postman Collection
+
+The Postman collection is included in the repository as
+`Employee Management System API.postman_collection.json`.
+
+Import this file into Postman to test the employee CRUD endpoints.
+
+Before testing, make sure the Spring Boot application and MySQL server are running.
 
 ## Validation and Exception Handling
 
